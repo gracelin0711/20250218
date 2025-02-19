@@ -6,4 +6,4 @@
 
 -[EX01-01加法器](https://colab.research.google.com/drive/1XJ5W6f7HuS6f8XAjDXAqMrvdKgIOqQEz)
 -[EX01-02BMI計算](https://colab.research.google.com/drive/1rVVqc7dIeWLPCRSGTT9kk7XQGdqxdJ8b)
--[EX01-03Rock-paper-scissors](https://colab.research.google.com/drive/1ZMiLhDgPcX3ywbuOc_tlgDUjOc9TrgB6)
+-[EX01-03Rock-paper-scissors](EX01_03Rock_paper_scissors.ipynb)
