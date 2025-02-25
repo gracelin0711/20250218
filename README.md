@@ -2,7 +2,7 @@
 
 ## 00 Introduction
 
-## 01 Overview
+## 01 Python Overview
 
 -[EX01-01加法器](EX01_01加法器.ipynb)
 -[EX01-02BMI計算](EX01_02BMI計算.ipynb)
