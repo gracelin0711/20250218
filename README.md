@@ -15,8 +15,8 @@
 ## 02 Web Crawler  
 [EX02-01My Chatbot](EX02_01_My_Chatbot.ipynb)  
 [EX02-02高雄紅橘線捷運車站位置查詢](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)  
-[EX02-01My Chatbot](EX02_01_My_Chatbot.ipynb)  
-[EX02-01My Chatbot](EX02_01_My_Chatbot.ipynb)  
-[EX02-01My Chatbot](EX02_01_My_Chatbot.ipynb)  
-[EX02-01My Chatbot](EX02_01_My_Chatbot.ipynb)  
+[EX02-03Yahoo新聞儲存Google試算表](EX02_03_Yahoo_新聞儲存_Google_試算表.ipynb)  
+[EX02-04Download Pokemon Images](EX02_04_Download_Pokemon_Images.ipynb)  
+[EX02-05PTT Gossiping](EX02_05_PTT_Gossiping.ipynb)  
+[EX02-06開眼電影](EX02_06_開眼電影.ipynb)  
 
