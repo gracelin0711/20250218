@@ -32,4 +32,8 @@
 -[EX03-07Tips](EX03_07_Tips.ipynb)  
 
 ## 05 Web API
+-[EX05-01Echo Bot](EX05_01_Echo_Bot.ipynb)  
+-[EX05-02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)   
+-[EX05-03Reply Multi type Messages](EX05_03_Reply_Multi_type_Messages.ipynb)  
+
 
