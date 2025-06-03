@@ -31,6 +31,13 @@
 -[EX03-06出生人口數](EX03_06_出生人口數.ipynb)  
 -[EX03-07Tips](EX03_07_Tips.ipynb)  
 
+## 04 Machine Learning
+-[EX04-01Echo Bot](EX04_01_汽車車型數值資料轉換.ipynb)  
+-[EX04-02客戶基本資料編碼](EX04_02_客戶基本資料編碼.ipynb)  
+-[EX04-03客戶分群](EX04_03_客戶分群.ipynb)  
+-[EX04-04Echo Bot](EX04_01_汽車車型數值資料轉換.ipynb)  
+
+
 ## 05 Web API
 -[EX05-01Echo Bot](EX05_01_Echo_Bot.ipynb)  
 -[EX05-02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)   
