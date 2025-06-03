@@ -35,8 +35,8 @@
 -[EX04-01Echo Bot](EX04_01_汽車車型數值資料轉換.ipynb)  
 -[EX04-02客戶基本資料編碼](EX04_02_客戶基本資料編碼.ipynb)  
 -[EX04-03客戶分群](EX04_03_客戶分群.ipynb)  
--[EX04-04Echo Bot](EX04_01_汽車車型數值資料轉換.ipynb)  
-
+-[EX04-04加州房價](EX04_04_加州房價.ipynb)  
+-[EX04-04加州房價](EX04_04_加州房價.ipynb)  
 
 ## 05 Web API
 -[EX05-01Echo Bot](EX05_01_Echo_Bot.ipynb)  
